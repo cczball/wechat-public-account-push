@@ -7,14 +7,14 @@ export const config = {
     // 模板消息id
     templateId: "8ITAO65m82-g8X5Yp8E1D_3TVnDJ7FPCqjAmw_t-Q_c",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    user: ["oEm1g59qhTNgD1IuWC2zFRsATgGE","oEm1g5-ciKqZdbMvtz6M9srj1_H4"],
+    user: ["oEm1g59qhTNgD1IuWC2zFRsATgGE","oEm1g5-ciKqZdbMvtz6M9srj1_H4","oEm1g55fT_n1WFLUD_68tGSTDJyc"],
      
     // 信息配置
     ewai: "   ",
     // 所在省份
     province: "福建",
     // 所在城市
-    city: "莆田",
+    city: ["漳州", "莆田"，"漳州"],
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
       {"name": "曾曾", "year": "1998", "date": "06-02", "type": 'new'},
