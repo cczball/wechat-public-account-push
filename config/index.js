@@ -5,7 +5,7 @@ export const config = {
     // 公众号appSecret
     appSecret: "4d4e45d8c83d5ea1aa2a6aace2fcb9c2",
     // 模板消息id
-    templateId: "R4yN9uRlP9BHT7Fy7_MgTHdTIxafkVOm47mO_bcR87M",
+    templateId: "8ITAO65m82-g8X5Yp8E1D_3TVnDJ7FPCqjAmw_t-Q_c",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     user: ["oEm1g59qhTNgD1IuWC2zFRsATgGE","oEm1g5-ciKqZdbMvtz6M9srj1_H4"],
      
@@ -21,7 +21,7 @@ export const config = {
       {"name": "哥哥", "year": "1996", "date": "01-07", "type": 'new'},
     ],
     // 在一起的日子，格式同上
-    loveDate: "2020-09-03",
+    loveDate: "2021-09-03",
     // 结婚纪念日
     
     }
